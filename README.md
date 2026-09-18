@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Mili Ranaldi
 
-<!--
-**Mili-Ranaldi2609/Mili-Ranaldi2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+Soy desarrolladora web enfocada en la creación de aplicaciones frontend y full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo principalmente con **React, TypeScript, JavaScript y Node.js**, y también tengo experiencia con **Java, APIs REST, SQL y testing de performance con k6**.
+
+Actualmente busco seguir creciendo profesionalmente, participar en proyectos reales y profundizar mis conocimientos en desarrollo web y backend.
+
+## 🛠️ Tecnologías
+
+* React
+* TypeScript
+* JavaScript
+* Node.js
+* Java
+* HTML5
+* CSS3
+* SQL
+* Git & GitHub
+* Postman
+* k6
+
+## 🚀 Proyectos destacados
+
+### 🍽️ Menu API
+
+Proyecto desarrollado con TypeScript para trabajar con una API de gestión de menú.
+
+🔗 [Ver repositorio](https://github.com/Mili-Ranaldi2609/menuApi_Grupo_Chimichurri)
+
+### 👟 E-commerce de zapatillas
+
+Proyecto grupal full stack con frontend en React/TypeScript y backend en Java.
+
+🔗 [Frontend](https://github.com/Mili-Ranaldi2609/frontendeCommerceGrupoCodequetteC3)
+
+🔗 [Backend](https://github.com/Mili-Ranaldi2609/BackECommerceZapatillasGrupoCodequette)
+
+### ✅ Gestión de tareas y sprints
+
+Aplicación desarrollada con React y TypeScript para gestionar tareas, backlog y sprints.
+
+🔗 [Ver repositorio](https://github.com/Mili-Ranaldi2609/listadetareas_grupocodequette)
+
+## 🌐 Portfolio
+
+🔗 [mili-ranaldi2609.github.io](https://mili-ranaldi2609.github.io/)
+
+## 📫 Contacto
+
+Podés conocer más sobre mis proyectos desde mi portfolio y mis repositorios.
+
+Actualmente abierta a oportunidades como **Web Developer, Frontend Developer y Full Stack Developer**.
