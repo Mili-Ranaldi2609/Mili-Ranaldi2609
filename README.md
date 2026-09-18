@@ -77,18 +77,6 @@ Aplicación desarrollada con **React y TypeScript** para gestionar tareas, backl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mili-Ranaldi2609&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mili-Ranaldi2609&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ## 🌱 Actualmente aprendiendo
 
 - Desarrollo Full Stack
